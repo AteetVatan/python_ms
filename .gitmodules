@@ -1,9 +1,12 @@
 [submodule "Movie_Project"]
 	path = Movie_Project
 	url = https://github.com/AteetVatan/Movie_Project.git
+	branch = main
 [submodule "Zootopia"]
 	path = Zootopia
 	url = https://github.com/AteetVatan/Zootopia.git
+	branch = main
 [submodule "Titanic"]
 	path = Titanic
 	url = https://github.com/AteetVatan/Titanic.git
+	branch = main
