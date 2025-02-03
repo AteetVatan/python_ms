@@ -1,0 +1,9 @@
+[submodule "Movie_Project"]
+	path = Movie_Project
+	url = ./Movie_Project
+[submodule "Zootopia"]
+	path = Zootopia
+	url = ./Zootopia
+[submodule "Titanic"]
+	path = Titanic
+	url = ./Titanic
