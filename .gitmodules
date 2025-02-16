@@ -10,3 +10,6 @@
 	path = Titanic
 	url = https://github.com/AteetVatan/Titanic.git
 	branch = main
+[submodule "Best_Buy"]
+	path = Best_Buy
+	url = ./Best_Buy
