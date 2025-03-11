@@ -14,3 +14,6 @@
 	path = Best_Buy
 	url = https://github.com/AteetVatan/Best_Buy.git
 	branch = main
+[submodule "Masterblog"]
+	path = Masterblog
+	url = ./Masterblog
