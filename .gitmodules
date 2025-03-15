@@ -20,4 +20,5 @@
 	branch = main
 [submodule "Masterblog_API"]
 	path = Masterblog_API
-	url = ./Masterblog_API
+	url = https://github.com/AteetVatan/Masterblog_API.git
+	branch = main
