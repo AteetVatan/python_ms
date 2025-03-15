@@ -18,3 +18,6 @@
 	path = Masterblog
 	url = https://github.com/AteetVatan/Masterblog.git
 	branch = main
+[submodule "Masterblog_API"]
+	path = Masterblog_API
+	url = ./Masterblog_API
